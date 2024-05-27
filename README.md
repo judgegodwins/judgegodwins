@@ -7,7 +7,7 @@ Full-stack Developer
 I'm very curious and passionate about technology. I love learning new and better ways of developing reliable and efficient software.
 
 * 🌍  I'm based in Port Harcourt, Nigeria
-* 🖥️  See my portfolio at [Portfolio](http://judgegodwins.me)
+* 🖥️  See my portfolio at [judgegodwins.me](http://judgegodwins.me)
 * ✉️  You can contact me at [judgegodwins@gmail.com](mailto:judgegodwins@gmail.com)
 * 🧠  I'm learning PostgreSQL
 * 🤝  I'm open to collaborating on full-stack applications, primarily with a React frontend, Node.js/Go backend, and React Native projects.
